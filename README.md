@@ -26,9 +26,3 @@ The app allows the user to re-record by navigating back to the first scene from 
 Sound Effects
 
 The second scene of the app contains the following buttons for audio effects: Snail (slow), Rabbit (fast), Chipmunk (high pitch), Darth Vader (low pitch), Echo and Reverb. All six buttons work properly to play the associated sounds.
-
-Code Quality
-
-Potentially repetitive blocks of code are effectively abstracted into reusable methods.
-Code adheres to Swift naming and style conventions.
-Code is readable and easy to follow. Any code that may be hard to understand is commented effectively.
